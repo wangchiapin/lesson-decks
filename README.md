@@ -12,8 +12,8 @@
 
 | 教材 | 資料夾 | 每天做什麼 | 排程手冊 |
 |---|---|---|---|
-| 生活情境短文 | `decks/`、`tools/`、`topics_plan.tsv`、`used_topics.txt` | 10 個主題（A2／B1／B2 共 130 個計畫主題），每個主題一份 pptx，打包成 zip | `RUNBOOK.md` |
-| 情境生存 | `survival/` | 5 個「情境生存」主題（像機場篇、飯店篇那一型，共 70 個計畫主題），每個主題一份 pptx | `survival/RUNBOOK.md` |
+| 生活情境短文 | `decks/`、`tools/`、`topics_plan.tsv`、`used_topics.txt` | 10 個主題（A2／B1／B2 共 130 個計畫主題，A2 50、B1 40、B2 40），每個主題一份 pptx，打包成 zip | `RUNBOOK.md` |
+| 情境生存 | `survival/` | 5 個「情境生存」主題（像機場篇、飯店篇那一型，計畫檔共 70 列：第 0 組 5 個是 2026-10-21 的測試，其餘 13 天 65 個是正式排程），每個主題一份 pptx | `survival/RUNBOOK.md` |
 
 ## 資料夾
 
