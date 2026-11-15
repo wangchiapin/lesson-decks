@@ -2,7 +2,7 @@
 
 > 每天自動產出兩套 pptx 教材：「生活情境短文」和「情境生存」，給說西班牙語的華語學習者
 
-- **網址：** 無（純檔案 repo，沒有網頁；成品是 `decks/` 與 `survival/decks/` 裡的 pptx 和 zip）
+- **網址：** 無（純檔案 repo，沒有網頁；成品是 `decks/` 與 `survival/decks/` 裡的 pptx；每天的 zip 已在 2026-11-15 刪除，依等級合併的版本在 `merged/`）
 - **Firebase 專案：** 不使用 Firebase
 - **登入方式：** —
 - **狀態：** 使用中（排程每天台灣時間 17:00 執行；目前計畫 2026-11-01 到 2026-11-13，另有 2026-10-21 的測試成品）
@@ -17,7 +17,7 @@
 
 ## 資料夾
 
-- `decks/YYYY-MM-DD_<等級>/`：當天的 pptx（`MMDD_01.pptx` …）、`index.txt`（檔名對應主題）、zip。
+- `decks/YYYY-MM-DD_<等級>/`：當天的 pptx（`MMDD_01.pptx` …）、`index.txt`（檔名對應主題）。（原本還有當天的 zip，2026-11-15 已刪除，內容與 pptx 相同。）
 - `survival/decks/YYYY-MM-DD/`：情境生存的當天成品，另有 `prompts.md`（圖片提示）。
 - `topics_plan.tsv`、`survival/plan.tsv`：每天要做的主題計畫（`status` 做完會改成 `done`）。
 - `used_topics.txt`、`survival/used_topics.txt`：已做過的主題，不可重複。
